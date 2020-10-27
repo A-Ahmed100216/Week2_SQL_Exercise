@@ -1,5 +1,5 @@
 ## ERD
-![ERD](https://github.com/A-Ahmed100216/Eng74_Week2/blob/main/Images/ERD%20Upda$
+![ERD](https://github.com/A-Ahmed100216/Week2_SQL_Exercise/blob/main/SQL_images/ERD%20Update.png)
 
 ## Code
 ``` sql
