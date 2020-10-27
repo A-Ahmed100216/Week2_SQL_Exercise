@@ -47,5 +47,5 @@ SELECT * FROM eBook_details
 SELECT * FROM booking_details
 ```
 
-![user_details](https://github.com/A-Ahmed100216/Week2_SQL_Exercise/blob/main/SQL_images/updated_tables.png)
+![user_details](https://github.com/A-Ahmed100216/Week2_SQL_Exercise/blob/main/SQL_images/updates.png)
 
